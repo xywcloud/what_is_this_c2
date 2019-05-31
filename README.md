@@ -124,6 +124,10 @@ Fox Stealer v0.2
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv2.png "foxv2")
 
+Fox Stealer v0.3
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv3.png "foxv3")
+
 Fox Stealer Mod
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxmod.png "foxmod")
@@ -284,6 +288,9 @@ Octopus:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Octopus.png "Octopus")
 
+Panda (Android Bot): 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/panda.png "Panda(Android")
 
 Panda Banker: 
 
@@ -325,9 +332,13 @@ s0rryCoins:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sorrycoins.png "s0rryCoins")
 
-SpyAgent: 
+SpyAgent 1.2: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyagent.png "SpyAgent")
+
+SpyAgent: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyagent2.png "SpyAgent")
 
 SpyEye: 
 
@@ -360,3 +371,7 @@ xKeyScore:
 Zeus: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/zeus.png "Zeus")
+
+ZyklonHTTP: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ZyklonHTTP.png "ZyklonHTTP")

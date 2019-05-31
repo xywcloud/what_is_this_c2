@@ -26,6 +26,7 @@ Eredel
 Fox Stealer Mod
 Fox Stealer v0.1
 Fox Stealer v0.2
+Fox Stealer v0.3
 Fucus
 Gaudox  
 Gazorp  
@@ -60,6 +61,7 @@ Neutrino
 Nikki Stealer 
 NovoBot 
 Octopus 
+Panda (Android bot)
 Panda Banker  
 Panda Bot  
 Pingu
@@ -76,3 +78,4 @@ TSLAB
 Ursnif  
 xKeyScore  
 Zeus
+ZyklonHTTP
