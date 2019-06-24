@@ -6,12 +6,14 @@ Anubis Variant
 Ares
 Arkei  
 Arkeiv9  
+ArminsBot
 Ars Loader  
 Athena HTTP  
 Aurora Loader  
 ATS
 Azorult  
-Baldr  
+Baldr v2.x  
+Baldr v3.0  
 Blue Bot  
 BOMJProject
 Citadel  
@@ -23,6 +25,7 @@ Cythosia
 DarkVNC  
 DiamondFox / Gorynch  
 Eredel  
+FormBook
 Fox Stealer Mod
 Fox Stealer v0.1
 Fox Stealer v0.2
@@ -34,6 +37,7 @@ Godzilla
 Golden Phoenix  
 HawkEye  
 Hawkeye (old, previously DataLog)
+Hijalyh
 HVNC  
 IceIX  
 ISRS Stealer / ISRS  
@@ -63,7 +67,8 @@ NovoBot
 Octopus 
 Panda (Android bot)
 Panda Banker  
-Panda Bot  
+Panda Bot
+ParasiteHTTP  
 Pingu
 Pony  
 Predator The Thief  
@@ -79,3 +84,4 @@ Ursnif
 xKeyScore  
 Zeus
 ZyklonHTTP
+ZyklonLoader

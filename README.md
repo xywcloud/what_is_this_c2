@@ -43,6 +43,10 @@ Arkeiv9:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Arkeiv9.png "Arkeiv9")
 
+ArminsBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ArminsBot.png "ArminsBot")
+
 Ars Loader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/arsloader.png "Ars Loader")
@@ -63,9 +67,13 @@ Azorult:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/azorult.png "Azorult")
 
-Baldr: 
+Baldr v2.x: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldr.png "Baldr")
+
+Baldr v3.0: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldrv3.png "Baldrv3")
 
 Blue Bot: 
 
@@ -116,6 +124,10 @@ File Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/filestealer.png "File Stealer")
 
+FormBook: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/formbook.png "FormBook")
+
 Fox Stealer v0.1
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv1.png "foxv1")
@@ -159,6 +171,10 @@ HawkEye:
 Hawkeye (old, previously DataLog)
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hawkeyeold.png "HawkEyeOld")
+
+Hijalyh: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hijalyh.png "Hijalyh")
 
 HVNC: 
 
@@ -300,6 +316,10 @@ Panda Bot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/pandabot.png "Panda Bot")
 
+ParasiteHTTP: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/parasite.png "ParasiteHTTP")
+
 Pingu
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/pingu.png "Pingu Stealer")
@@ -375,3 +395,7 @@ Zeus:
 ZyklonHTTP: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ZyklonHTTP.png "ZyklonHTTP")
+
+ZyklonLoader: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/zyklonloader.png "ZyklonLoader")
