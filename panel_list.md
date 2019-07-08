@@ -33,6 +33,8 @@ Fox Stealer v0.3
 Fucus
 Gaudox  
 Gazorp  
+GlitchPOS
+GoBrut
 Godzilla  
 Golden Phoenix  
 HawkEye  
