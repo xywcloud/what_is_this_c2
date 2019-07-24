@@ -8,6 +8,7 @@ Arkei
 Arkeiv9  
 ArminsBot
 Ars Loader  
+AspireStealer
 Athena HTTP  
 Aurora Loader  
 ATS
@@ -78,6 +79,8 @@ ProtonBot
 QuantLoader  
 Racoon 3000  
 Racoon Stealer  
+Rarog  
+Riltok  
 SpyAgent  
 SpyEye  
 TreasureHunter  
