@@ -19,6 +19,10 @@ Agent Tesla:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AgentTesla2.png "Agent Tesla")
 
+Agent Tesla: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AgentTeslaReborn.png "Agent Tesla")
+
 Alina: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Alina.png "Alina")
@@ -79,6 +83,10 @@ Baldr v3.0:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldrv3.png "Baldrv3")
 
+BetaBot:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/betabot.png "BetaBot")
+
 Blue Bot: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlueBot.png "Blue Bot")
@@ -111,6 +119,9 @@ Cythosia:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Cythosia.png "Cythosia")
 
+DarkRat: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/darkrat.png "DarkRat")
 
 DarkVNC: 
 
@@ -120,6 +131,10 @@ DiamondFox / Gorynch:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/diamondall.jpg "DiamonFox")
 
+DiamondFox / Renard: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/renardall.png "DiamonFox")
+
 Eredel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
@@ -127,6 +142,10 @@ Eredel:
 File Stealer: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/filestealer.png "File Stealer")
+
+FinderBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/finderbot.png "FinderBot")
 
 FormBook: 
 
@@ -160,9 +179,13 @@ Gazorp:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/gazorp.png "Gazorp")
 
-GoBrut:
+GoBrut / StealthWorker:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/GoBrut.png "GoBrut")
+
+GoBrut / StealthWorker:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/GoBrut2.png "GoBrut")
 
 GlitchPOS: 
 
@@ -207,6 +230,10 @@ ISRS Stealer / ISRS:
 ISRS Stealer / ISRS: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/isr-stealer-masarati.png "ISRS")
+
+IStealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/istealer.png "IStealer")
 
 JackPOS: 
 
@@ -368,6 +395,10 @@ Riltok:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/riltok.png "riltok")
 
+Sarwent: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sarwent.png "sarwent")
+
 s0rryCoins: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sorrycoins.png "s0rryCoins")
@@ -392,6 +423,10 @@ TreasureHunter:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/treasurehunter.png "TreasureHunter")
 
+TRON Project:
+
+![alt text](https://github.com/Fedor22/what_is_this_c2/blob/master/images/TRONProject.png "TRON Project")
+
 TSLAB: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/TSLAB.png "TSLAB")
@@ -404,9 +439,17 @@ Ursnif:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ursnif.png "Ursnif")
 
+Vidar: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Vidar.png "Vidar")
+
 xKeyScore: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/xKeyScore.png "xKeyScore")
+
+ZeroBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/zerobot.png "ZeroBot")
 
 Zeus: 
 

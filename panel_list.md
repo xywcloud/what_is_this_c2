@@ -15,6 +15,7 @@ ATS
 Azorult  
 Baldr v2.x  
 Baldr v3.0  
+BetaBot
 Blue Bot  
 BOMJProject
 Citadel  
@@ -22,10 +23,13 @@ CoalaBot
 CodePro  
 Comet Bot  
 Cyborg  
-Cythosia  
+Cythosia
+DarkRat  
 DarkVNC  
-DiamondFox / Gorynch  
+DiamondFox / Gorynch
+DimaondFox / Renard  
 Eredel  
+FinderBot
 FormBook
 Fox Stealer Mod
 Fox Stealer v0.1
@@ -35,7 +39,7 @@ Fucus
 Gaudox  
 Gazorp  
 GlitchPOS
-GoBrut
+GoBrut / StealthWorker
 Godzilla  
 Golden Phoenix  
 HawkEye  
@@ -43,7 +47,8 @@ Hawkeye (old, previously DataLog)
 Hijalyh
 HVNC  
 IceIX  
-ISRS Stealer / ISRS  
+ISRS Stealer / ISRS
+IStealer  
 JackPOS  
 JSPSpy1.0  
 Kardon Loader  
@@ -81,12 +86,16 @@ Racoon 3000
 Racoon Stealer  
 Rarog  
 Riltok  
+Sarwent
 SpyAgent  
 SpyEye  
-TreasureHunter  
+TreasureHunter
+TRON Project
 TSLAB  
 Ursnif  
-xKeyScore  
+Vidar
+xKeyScore
+ZeroBot  
 Zeus
 ZyklonHTTP
 ZyklonLoader
