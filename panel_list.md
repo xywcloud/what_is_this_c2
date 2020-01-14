@@ -16,8 +16,10 @@ Azorult
 Baldr v2.x  
 Baldr v3.0  
 BetaBot
+BlackNET
 Blue Bot  
 BOMJProject
+Buer
 Citadel  
 CoalaBot  
 CodePro  
@@ -37,7 +39,7 @@ Fox Stealer v0.2
 Fox Stealer v0.3
 Fucus
 Gaudox  
-Gazorp  
+Gazorp
 GlitchPOS
 GoBrut / StealthWorker
 Godzilla  
@@ -58,8 +60,10 @@ Keybase
 Kpot 
 Kratos  
 Krypton Stealer 
+Liphyras
 LiteHTTP 
 Lokibot 
+Lucifer
 Madness
 MAjikPOS 
 MegalodonHTTP 
@@ -67,12 +71,15 @@ Megumin
 MysteryBot 
 MysticalNet 
 N0F1l3 / 1ms0rry 
-N0peSystems 
+N0peSystems
+Nemty 
 NetSky 
-Neutrino 
+Neutrino
+NewDDOSBot
 Nikki Stealer 
 NovoBot 
-Octopus 
+Octopus
+Oski 
 Panda (Android bot)
 Panda Banker  
 Panda Bot

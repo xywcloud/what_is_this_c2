@@ -87,6 +87,10 @@ BetaBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/betabot.png "BetaBot")
 
+BlackNET:
+
+![alt text](https://github.com/Fedor22/what_is_this_c2/blob/master/images/BlackNETBotnet.png "BlackNET")
+
 Blue Bot: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlueBot.png "Blue Bot")
@@ -94,6 +98,10 @@ Blue Bot:
 BOMJProject (Sakari Stealer)
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "Sakari / BOMJ Project")
+
+Buer Loader
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/buer.png "Buer")
 
 Citadel: 
 
@@ -275,6 +283,10 @@ Krypton Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kryptonstealer.png "KryptonStealer")
 
+Liphyra:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/liphyra.png "Liphyra")
+
 LiteHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/litehttp.png "LiteHTTP")
@@ -287,9 +299,9 @@ Lokibot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/LokiBot2.png "LokiBot")
 
-Liphyra:
+Lucifer:
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/liphyra.png "Liphyra")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/lucifer.png "Lucifer")
 
 Madness:
 
@@ -323,6 +335,10 @@ N0peSystems:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/n0pesystems.png "n0peSystems")
 
+Nemty:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/nemty.png "Nemty")
+
 NetSky:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/netsky.png "NetSky")
@@ -330,6 +346,10 @@ NetSky:
 Neutrino:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/neutrino.png "Neutrino")
+
+NewDDOSBot
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/genasep.png "NewDDOSBot")
 
 Nikki Stealer:
 
@@ -342,6 +362,10 @@ NovoBot:
 Octopus:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Octopus.png "Octopus")
+
+Oski:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/oski.png "Oski")
 
 Panda (Android Bot): 
 
