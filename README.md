@@ -99,6 +99,10 @@ BOMJProject (Sakari Stealer)
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "Sakari / BOMJ Project")
 
+Borr
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/borr.png "Borr")
+
 Buer Loader
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/buer.png "Buer")
@@ -146,6 +150,9 @@ DiamondFox / Renard:
 Eredel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
+
+Evrial: 
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/evrial.png "Evrial")
 
 File Stealer: 
 
@@ -403,11 +410,11 @@ QuantLoader:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/quantloader.png "QuantLoader")
 
-Racoon 3000: 
+Raccoon 3000: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Racoon3000.png "Racoon")
 
-Racoon Stealer: 
+Raccoon Stealer: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/RacoonStealer.png "Racoon")
 
