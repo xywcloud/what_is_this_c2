@@ -23,6 +23,10 @@ Agent Tesla:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AgentTeslaReborn.png "Agent Tesla")
 
+AlienBot:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AlienBot.png "AlienBot")
+
 Alina: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Alina.png "Alina")
@@ -213,6 +217,10 @@ Godzilla:
 Golden Phoenix: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/goldenphoenix.png "GoldenPhoenix")
+
+Gomorrah Stealer: 
+
+![alt text](/images/Gomorrah_Stealer.png "Gomorrah Stealer")
 
 HawkEye: 
 

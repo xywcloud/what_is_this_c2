@@ -1,5 +1,6 @@
 Acrux  
 Agent Tesla  
+AlienBot
 Alina 
 Amadey  
 Anubis Variant  
@@ -44,6 +45,7 @@ GlitchPOS
 GoBrut / StealthWorker
 Godzilla  
 Golden Phoenix  
+Gomorrah Stealer
 HawkEye  
 Hawkeye (old, previously DataLog)
 Hijalyh
