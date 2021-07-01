@@ -14,10 +14,12 @@ Athena HTTP
 Aurora Loader  
 ATS
 Azorult  
+BackStage  
 Baldr v2.x  
 Baldr v3.0  
 BetaBot
 BlackNET
+BlackRock
 Blue Bot  
 BOMJProject
 Buer
@@ -31,6 +33,7 @@ DarkRat
 DarkVNC  
 DiamondFox / Gorynch
 DimaondFox / Renard  
+DT-stealer  
 Eredel  
 FinderBot
 FormBook
@@ -68,6 +71,7 @@ Lokibot
 Lucifer
 Madness
 MAjikPOS 
+MassLogger
 MegalodonHTTP 
 Megumin 
 MysteryBot 
@@ -78,7 +82,8 @@ Nemty
 NetSky 
 Neutrino
 NewDDOSBot
-Nikki Stealer 
+Nikki Stealer
+NovaHTTP 
 NovoBot 
 Octopus
 Oski 
@@ -90,6 +95,7 @@ Pingu
 Pony  
 Predator The Thief  
 ProtonBot
+PurpleWave
 QuantLoader  
 Racoon 3000  
 Racoon Stealer  
@@ -98,6 +104,7 @@ Riltok
 Sarwent
 SpyAgent  
 SpyEye  
+Taurus
 TreasureHunter
 TRON Project
 TSLAB  

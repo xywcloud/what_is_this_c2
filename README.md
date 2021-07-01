@@ -79,6 +79,10 @@ Azorult:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/azorult.png "Azorult")
 
+BackStage: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/backstage.png "BackStage")
+
 Baldr v2.x: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldr.png "Baldr")
@@ -93,7 +97,11 @@ BetaBot:
 
 BlackNET:
 
-![alt text](https://github.com/Fedor22/what_is_this_c2/blob/master/images/BlackNETBotnet.png "BlackNET")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlackNETBotnet.png "BlackNET")
+
+BlackRock:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/blackrock.png "BlackRock")
 
 Blue Bot: 
 
@@ -150,6 +158,10 @@ DiamondFox / Gorynch:
 DiamondFox / Renard: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/renardall.png "DiamonFox")
+
+DT-stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/dt_stealer.png "dt-stealer")
 
 Eredel: 
 
@@ -217,6 +229,10 @@ Godzilla:
 Golden Phoenix: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/goldenphoenix.png "GoldenPhoenix")
+
+Gomorrah Lite: 
+
+![alt text](/images/gom_lite.png "Gomorrah Lite V2")
 
 Gomorrah Stealer: 
 
@@ -326,6 +342,10 @@ MajikPOS:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/majikpos.png "MajikPOS")
 
+MassLogger:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/MassLogger.png "MassLogger")
+
 MegalodonHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megalodonHTTP.png "MegalodonHTTP")
@@ -369,6 +389,10 @@ NewDDOSBot
 Nikki Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/nikkiStealer.png "Nikki")
+
+NovaHTTP:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/novahttp.png "NovaHTTP")
 
 NovoBot:
 
@@ -414,6 +438,10 @@ ProtonBot
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/protonbot.png "ProtonBot")
 
+PurpleWave
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/PurpleWave.png "PurpleWave")
+
 QuantLoader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/quantloader.png "QuantLoader")
@@ -457,6 +485,10 @@ SpyEye:
 Tables: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/tables.png "Tables")
+
+Taurus: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Taurus.png "Taurus")
 
 TreasureHunter: 
 
